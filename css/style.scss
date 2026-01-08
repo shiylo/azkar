@@ -479,13 +479,13 @@ body {
 }
 
 .azrak-arab-text {
-    font-size: 2.2rem;
+    font-size: 2.3rem;
     line-height: 1.8;
     color: var(--primary-dark);
     text-align: right;
     direction: rtl;
     margin: 25px 0;
-    font-family: 'Lateef', 'Scheherazade New', 'Amiri', serif;
+    // font-family: 'Lateef', 'Scheherazade New', 'Amiri', serif;
     font-weight: 400;
 }
 
@@ -651,4 +651,5 @@ body {
         padding: 18px 20px;
         padding-right: 55px;
     }
+
 }
