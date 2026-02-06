@@ -6,12 +6,4 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-  <!-- Если у вас есть другие страницы, добавьте их:
-  <url>
-    <loc>https://shiylo.github.io/azkar/page2.html</loc>
-    <lastmod>2024-01-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  -->
 </urlset>
